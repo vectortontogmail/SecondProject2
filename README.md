@@ -1,2 +1,2 @@
 # SecondProject2
-Throwaway
+Just a throway project
